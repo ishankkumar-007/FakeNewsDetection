@@ -1,0 +1,10 @@
+tensorflow>=2.11
+scikit-learn
+keras
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+nltk
+regex
