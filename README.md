@@ -94,6 +94,15 @@ cd src/final/
 
 ```
 
+## Collaborators
+
+This project was developed as part of a team effort. The following members contributed to various aspects of data preprocessing, model development, experimentation, and documentation:
+
+- [**Ishank Kumar**](https://github.com/ishankkumar-007)
+- [**Nimisha Thallapally**](https://github.com/nimishathallapally)
+
+---
+
 ## Recommendation
 
 - Use the Transformer model for a balanced performance across metrics.
